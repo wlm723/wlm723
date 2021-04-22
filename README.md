@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wlm723
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on gui
+- 💞️ I’m looking to with pepole that have expirience with vbs and python
 - 📫 How to reach me aalexiou098@gmail.com
 
 <!---
